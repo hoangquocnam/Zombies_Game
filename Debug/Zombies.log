@@ -1,0 +1,88 @@
+﻿  Zombie_Arena.cpp
+D:\Game\Zombies\Zombie_Arena.h(22,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game\Zombies\Zombie_Arena.h(22,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game\Zombies\Zombie_Arena.h(23,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game\Zombies\Zombie_Arena.h(23,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game\Zombies\Zombie_Arena.h(24,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game\Zombies\Zombie_Arena.h(24,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game\Zombies\Zombie_Arena.h(25,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game\Zombies\Zombie_Arena.h(25,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game\Zombies\Zombie_Arena.h(38,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game\Zombies\Zombie_Arena.h(39,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game\Zombies\Zombie_Arena.h(40,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game\Zombies\Zombie_Arena.h(41,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game\Zombies\Zombie_Arena.cpp(48,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game\Zombies\Zombie_Arena.cpp(49,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game\Zombies\Zombie_Arena.cpp(50,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game\Zombies\Zombie_Arena.cpp(50,42): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game\Zombies\Zombie_Arena.cpp(81,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game\Zombies\Zombie_Arena.cpp(657,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Zombies.vcxproj -> D:\Game\Debug\Zombies.exe
